@@ -1,0 +1,56 @@
+﻿{
+  "avatar": "https://secure.gravatar.com/avatar/fb2a77b791b552352de2c7a56a1a37d3?s=30",
+  "connected_accounts": {
+    "google": "codehtml717@gmail.com"
+  },
+  "created_at": "2026-09-28T06:00:33.598Z",
+  "email": "codehtml717@gmail.com",
+  "favorite_sites": [],
+  "full_name": "Dan onyango",
+  "last_login": "2026-09-28T06:00:34.008Z",
+  "pending_email": null,
+  "questionnaire": {
+    "_id": null,
+    "company_size_c": null,
+    "job_leadership_title": "",
+    "job_role": "junior_web_developer",
+    "use_case": "personal_portfolio_site",
+    "use_case_context": "personal",
+    "use_case_something_else": ""
+  },
+  "saml_slug": null,
+  "site_count": 8,
+  "slug": null,
+  "uid": null,
+  "account_id": "6aba02816a9120c2de9fa44d",
+  "tracking_id": "6aba02816a9120c2de9fa44a",
+  "mfa_enabled": false,
+  "id": "6aba02816a9120c2de9fa44a",
+  "login_providers": [
+    "google"
+  ],
+  "avatar_url": "https://secure.gravatar.com/avatar/fb2a77b791b552352de2c7a56a1a37d3?s=30",
+  "onboarding_progress": {
+    "guided_onboarding": {
+      "default": {
+        "customize-site-name": "open",
+        "deploy-again": "open",
+        "view-deploy-summary": "open",
+        "preview-your-deploy": "open"
+      },
+      "last_task_name_completed": null,
+      "total_tasks": 4,
+      "total_tasks_completed": 0
+    },
+    "slides": "closed"
+  },
+  "sandbox": false,
+  "graphql_enabled": false,
+  "has_pending_email_verification": false,
+  "saml_account_id": "",
+  "saml_organization_id": "",
+  "preferred_account_id": "",
+  "command_bar_signed_user_id": "2dfb692b41812bec27348f0f0bfb35bd0304e6f90255653acc5181828a337359",
+  "managed_by_sso_or_directory_sync": false,
+  "domain_capture_status": null
+}
